@@ -52,6 +52,48 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
 - Haz push a la rama (git push origin feature/nueva-funcionalidad).
 - Abre un Pull Request.
 
+### Ejecución de la Aplicación en IntelliJ IDEA
+
+0. **Inicio del Proyecto**  
+   ![Literalura menu](https://github.com/user-attachments/assets/8cb0781e-bf74-44c1-befb-d1c7126391d1)
+
+1. **Búsqueda de Libros por título**  
+   ![Literalura opcion 1](https://github.com/user-attachments/assets/a55e286c-a877-492c-8694-a3d27c756cf1)
+
+2. **Listar libros registrados**  
+   ![Literalura opcion 2](https://github.com/user-attachments/assets/baf1102b-bac8-44fe-8d04-fa93f517d20b)
+
+3. **Listar autores registrados**
+   ![Literalura opcion 3](https://github.com/user-attachments/assets/a2416460-0cc5-43a3-a305-b8f05dbefc69)
+
+4. **Listar autores vivos en determinado año**
+   ![Literalura opcion 4](https://github.com/user-attachments/assets/4d6a64b9-836a-4773-b1b0-4a525b5d50fd)
+
+5. **Listar libros por idioma**  
+   ![Literalura opcion 5](https://github.com/user-attachments/assets/32d63f1a-1bab-4bbf-ad48-5432413a4d1d)
+
+6. **Top 10 libros más descargados**
+  
+   ![Literalura opcion 6](https://github.com/user-attachments/assets/f1afbcbf-07af-43d7-bfb7-cc06adcfd725)
+
+7. **Obtener estadisticas**
+   
+   ![Literalura opcion 7](https://github.com/user-attachments/assets/d1345106-310a-4810-9443-0c738cb021db)
+   
+0. **Salir**
+   
+   ![Literalura opcion 8](https://github.com/user-attachments/assets/393787dc-3759-4701-8261-3c76530c0de1)
+
+
+## Demostración en Video
+
+Haz clic en el siguiente enlace para ver el video demostrativo completo:  
+[🎥 Ver Video Literalura application](https://drive.google.com/file/d/1seenwe0qL_jCUJT3vHKDoSieFh2W2hPT/view?usp=sharing)
+
+   
+
+
+   
 <!--More About Me-->
 <br>
 
@@ -78,7 +120,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
        <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
        </a>
-       <p>Ultima Edición: 08/09/2024</p>
 </div>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
 
